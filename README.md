@@ -1,4 +1,4 @@
-# 10 youtube api example
+# 7 youtube api example
 This application reads the youtube api and displays it in the browser.
 
 the localhost:3000/ url will read the youtube api for 
